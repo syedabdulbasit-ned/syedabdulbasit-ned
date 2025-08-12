@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,30,60&height=250&section=header&text=Abdul%20Basit&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
   
-  <h2>
+ ? <h2>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🚀;AI+%26+Machine+Learning+Enthusiast+🤖;Turning+Ideas+into+Reality+✨">
   </h2>
 
