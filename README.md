@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **Information Technology** @ *Your University Name*
+- 🎓 **Computer and Information System Engineer** at NED university of engineering and technology
 - 💼 Passionate about **AI, ML, and Web Development**
 - 🚀 Currently working on **innovative full-stack apps**
 - 📚 Learning **Advanced Machine Learning & Cloud Deployments**
